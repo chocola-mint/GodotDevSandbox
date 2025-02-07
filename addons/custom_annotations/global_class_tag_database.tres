@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="ClassTagDatabase" load_steps=2 format=3 uid="uid://c7bvp7rixquwf"]
+
+[ext_resource type="Script" uid="uid://dqdl3otbkw1xr" path="res://addons/custom_annotations/ClassTagDatabase.gd" id="1_yqumn"]
+
+[resource]
+script = ExtResource("1_yqumn")
+tags = Array[StringName]([&"Enemy", &"Item", &"Player"])
+metadata/_custom_type_script = ExtResource("1_yqumn")

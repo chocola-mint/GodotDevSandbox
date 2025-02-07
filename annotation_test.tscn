@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7sftyhah3kip"]
+
+[ext_resource type="Script" uid="uid://dnl8ruli1wlgt" path="res://annotation_test.gd" id="1_ls07c"]
+
+[node name="AnnotationTest" type="Node2D"]
+visible = false
+script = ExtResource("1_ls07c")
+direction = Vector2(0.842271, -0.539054)
+input_action_index = 4
+other_direction = Vector2(-0.743294, -0.668965)
